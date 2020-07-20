@@ -1,0 +1,12 @@
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\bin\Release\InstagramBot.exe.config
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\obj\Release\InstagramBot.InstagramBotForm.resources
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\obj\Release\InstagramBot.Properties.Resources.resources
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\obj\Release\InstagramBot.csproj.GenerateResource.Cache
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\bin\Release\InstagramBot.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\bin\Release\InstagramBot.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\bin\Release\InstaSharper.dll
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\obj\Release\InstagramBot.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\obj\Release\InstagramBot.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\InstagramBot\InstagramBot\obj\Release\InstagramBot.csprojResolveAssemblyReference.cache
